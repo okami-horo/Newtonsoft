@@ -1,0 +1,13 @@
+{
+    "name": "com.gilgamesh.newtonsoftjson",
+    "version": "1.0.0",
+    "description": "json tools",
+    "license": "MIT",
+    "author": "gilgamesh backup",
+    "keywords": [
+      "newtonsoftjson"
+    ],
+    "displayName": "Newtonsoft Json",
+    "unity": "2022.3",
+    "type": "tool"
+  }
